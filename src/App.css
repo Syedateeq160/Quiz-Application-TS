@@ -1,0 +1,47 @@
+*{
+  font-family: 'Akshar', sans-serif;
+  background-color: rgba(27, 30, 42, 0.75);
+  color:white;
+  
+}
+.loadingfont
+{
+  color:rgb(232, 31, 39);
+  background-color:  rgba(27, 30, 42, 0.75);
+  text-align: center;
+
+}
+
+.App {
+  text-align: center;
+}
+
+
+
+.question-container {
+  text-align: left;
+  max-width: 500px;
+  box-shadow: 0px 5px 24px rgb(232, 31, 39);
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+
+}
+
+.question-form .submit {
+  width: 100%;
+  border: none;
+  background-color:rgb(232, 31, 39);
+  color: #ffffff;
+   border-radius: 5px;
+   padding: 7px;
+   margin-top: 20px;
+}
+
+.question-container .radio{
+    display: block;
+    margin: 9px 0;
+}
+.question-container.result-container{
+    text-align: center;
+}
